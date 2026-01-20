@@ -7,15 +7,6 @@ A aplicação apresenta uma interface moderna e responsiva, permitindo visualiza
 
 Este projeto foi criado com o objetivo de praticar lógica de programação, manipulação do DOM, organização de código front-end e estilização com Tailwind CSS, servindo também como base para evoluções futuras.
 
-🛠️ Tecnologias utilizadas
-
-HTML5
-
-CSS3
-
-Tailwind CSS
-
-JavaScript (Vanilla JS)
 
 📱 Responsividade
 
@@ -24,29 +15,20 @@ O layout foi desenvolvido com foco em responsividade, garantindo uma boa experi�
 🧠 Aprendizados
 
 Durante o desenvolvimento do projeto, foram praticados conceitos como:
-
 Manipulação do DOM com JavaScript
-
 Organização de código front-end
-
 Lógica de carrinho de compras
-
 Estilização com Tailwind CSS
-
 Noções de UX e layout responsivo
 
 🚀 Próximos passos
 
 Integração com Node.js para criação de uma API
-
 Persistência de dados
-
 Implementação de um sistema real de pedidos
-
 Conexão com banco de dados
 
 🎯 Objetivo
-
 Projeto em constante evolução, desenvolvido com foco em aprendizado e construção de portfólio como desenvolvedor.
 
 🧩 Tecnologias do projeto
