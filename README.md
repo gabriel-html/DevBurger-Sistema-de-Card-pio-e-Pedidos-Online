@@ -29,6 +29,7 @@ Implementação de um sistema real de pedidos
 Conexão com banco de dados
 
 🎯 Objetivo
+
 Projeto em constante evolução, desenvolvido com foco em aprendizado e construção de portfólio como desenvolvedor.
 
 🧩 Tecnologias do projeto
